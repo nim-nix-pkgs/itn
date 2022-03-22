@@ -9,7 +9,7 @@
   
   inputs.src-itn-master.flake = false;
   inputs.src-itn-master.owner = "achesak";
-  inputs.src-itn-master.ref   = "refs/heads/master";
+  inputs.src-itn-master.ref   = "master";
   inputs.src-itn-master.repo  = "nim-itn";
   inputs.src-itn-master.type  = "github";
   
