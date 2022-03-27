@@ -11,6 +11,7 @@
   inputs.src-itn-master.ref   = "refs/heads/master";
   inputs.src-itn-master.owner = "achesak";
   inputs.src-itn-master.repo  = "nim-itn";
+  inputs.src-itn-master.dir   = "";
   inputs.src-itn-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
