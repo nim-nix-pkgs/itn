@@ -7,7 +7,7 @@
   "web": "https://github.com/achesak/nim-itn",
   "url": "https://github.com/achesak/nim-itn",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-itn/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/achesak/nim-itn/': Failed to connect to github.com port 443 after 132320 ms: Connection timed out",
     ""
   ],
   "heads": []
